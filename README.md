@@ -22,7 +22,7 @@ The repository is organized by experimental scenario. Each notebook follows the 
    - TS-AIDA
    - TS-AIDA-FS
    - TS-AIDA-DFT
-(4. Inlier screening analysis)
+4. Inlier screening analysis (not applied in all experiments)
 5. Visualization and performance evaluation (figures and tables)
 
 ---
